@@ -1,0 +1,5 @@
+**National output** is the total amount of everything a country **produces** in a given **period of time**. ==🟢GDP is the total net output of the economy.== But adding **new factor incomes** from abroad to GDP produces **Gross National Income (GNI)**, which measures the **total income of all residents** in the economy. In most countries the difference between them is small, however the difference may be considerable in countries with large Net Foreign Assets (debt).
+
+# How to improve output?
+**Advances in technology, accumulation of machinery and other capital, better education and human capital**, are all factors that lead to **increased economic output** over time although **not always consistent**. 
+**[[Business Cycle]]s** can cause **recessions** and economists look for macroeconomic **policies** that **prevent** economies from slipping into **reccessions** or **overheating** and lead to **higher productivity and standards of living.** 

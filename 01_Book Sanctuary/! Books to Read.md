@@ -1,0 +1,9 @@
+- A short stay in hell by Steven L. Peck
+- Man's search for meaning by Viktor E. Frankl
+- The way of the superior man
+- Five dialouges by Plato
+- Crime and punishment by Fyodor Dostoyevski
+- The game of life and how to play it by Florence S. Schinn
+- Art of War by Sun Tzu
+- Thus spoke Zarathustra by Nietzche
+- Can't hurt me by David Goggins

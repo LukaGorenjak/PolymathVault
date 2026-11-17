@@ -1,0 +1,13 @@
+# Obsidian per-device workspace state (prevents constant cross-device conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Trash & OS/Editor temporary files
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.swp

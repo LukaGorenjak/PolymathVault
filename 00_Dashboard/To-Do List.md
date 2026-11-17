@@ -1,0 +1,7 @@
+- [ ] Spremen rjuhe
+- [x] Naroc FitBit Air
+- [ ] Ideaverse template
+- [ ] Dodaj 15.09. RPS notes v programming folder 
+- [ ] https://www.reddit.com/r/ObsidianMD/comments/1wdg6t0/new_post_obsidian_ceo_creates_new_language_turns/
+- [ ] Kup lok
+- [ ] Prestavi notse iz notiona v obsidian in naredi linke
