@@ -1,1 +1,1 @@
-EPS - Earnings Per 
+EPS - Earnings Per Share
