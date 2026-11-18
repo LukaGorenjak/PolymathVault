@@ -2,3 +2,8 @@
 Financial metric that compares a company's current share price to its [[EPS - earnings per share]]. It tells how much investors are willing to pay for each dollar a company earms.
 
 # How to interpret it?
+- **High P/E Ratio:** Can mean the stock is **overvalued**, or it can signal that investors expect **strong future growth** and are paying a premium for the company's potential (common in tech or high-growth sectors). [[1](https://www.home.saxo/learn/guides/financial-literacy/price-to-earnings-ratio-explained-what-it-is-and-how-to-use-it), [2](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio)]
+
+- **Low P/E Ratio:** Can mean the stock is a **bargain (undervalued)**, or it can indicate the company is facing **trouble, weak growth, or a declining outlook**. [[1](https://www.schwab.com/learn/story/stock-analysis-using-pe-ratio), [2](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio), [3](https://www.youtube.com/watch?v=_NkXJSa3h6k&t=12)]
+
+- **Negative or Zero P/E:** If a company has a net loss (no positive earnings), its P/E ratio is typically labeled as **N/A**.
