@@ -1,1 +1,1 @@
-- EPS - Earnings Per Share: how much profit a company makes for each outstanding share over a specific period of time 
+- EPS - Earnings Per Share: how much profit a company makes for each outstanding share over a specific period. Used to gauge profitability
