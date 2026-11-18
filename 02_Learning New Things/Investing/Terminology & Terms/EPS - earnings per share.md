@@ -11,3 +11,4 @@ It is how much profit a company makes for each outstanding share over a specific
 ### Basic
 - *(Net Income - Preferred Dividends) / Weighted Average Common Shares Outstanding*
 - Preferred dividends are subtracted because they belong to preferred shareholders rather than common stockholders.
+### Basic vs. Diluted EPS
