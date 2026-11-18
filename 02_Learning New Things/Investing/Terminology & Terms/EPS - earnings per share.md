@@ -14,3 +14,5 @@ It is how much profit a company makes for each outstanding share over a specific
 - Preferred dividends are subtracted because they belong to preferred shareholders rather than common stockholders.
 ### Basic vs. Diluted EPS
 - Basic EPS uses current common shares, while **diluted EPS** includes potential shares from convertible bonds, stock options, and warrants for a more conservative view.
+### Trailing vs. Forward EPS
+- Trailing EPS reflects actual past earnings (often the last four quarters), while forward EPS uses projected future earnings.
