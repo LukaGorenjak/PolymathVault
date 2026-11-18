@@ -1,1 +1,1 @@
-- EPS - Earnings Per Share: 
+- EPS - Earnings Per Share: how much profit a company makes for each outstanding share over a specific p
