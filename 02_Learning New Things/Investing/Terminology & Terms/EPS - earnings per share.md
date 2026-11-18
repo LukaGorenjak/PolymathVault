@@ -9,4 +9,5 @@ It is how much profit a company makes for each outstanding share over a specific
 
 # Formulas and Types
 ### Basic
-(Net Income - Preferred Dividends) / Weighted Average Common Shares Outstanding 
+(Net Income - Preferred Dividends) / Weighted Average Common Shares Outstanding.
+
