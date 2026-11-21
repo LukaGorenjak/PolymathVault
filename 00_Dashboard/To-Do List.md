@@ -5,3 +5,5 @@
 - [ ] https://www.reddit.com/r/ObsidianMD/comments/1wdg6t0/new_post_obsidian_ceo_creates_new_language_turns/
 - [ ] Kup lok
 - [ ] Prestavi notse iz notiona v obsidian in naredi linke
+- [ ] Nauci se kak greco roman takedown
+- [ ] Napisi prosnjo ya 
