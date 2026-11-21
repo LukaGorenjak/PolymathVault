@@ -6,4 +6,4 @@
 - [ ] Kup lok
 - [ ] Prestavi notse iz notiona v obsidian in naredi linke
 - [ ] Nauci se kak greco roman takedown
-- [ ] Napisi prosnjo za kadrov
+- [ ] Napisi prosnjo za kadrovsko stipendijo
