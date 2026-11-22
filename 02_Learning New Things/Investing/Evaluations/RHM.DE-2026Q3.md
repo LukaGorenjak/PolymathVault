@@ -22,7 +22,8 @@ tags:
 # RHM.DE — Rheinmetall AG (2026Q3 Stock Evaluation)
 
 > **Business Trajectory:** **MIXED** — **Valuation Expectations:** **FAIR** — **Data Confidence:** **80%**  
-> **Current Share Price:** EUR 693.40 — **Base DCF Context:** EUR 621.18 — **Technical Entry Zone:** EUR 645.70 – EUR 672.60
+> **Current Share Price:** EUR 693.40 — **Base DCF Context:** EUR 621.18 — **Technical Entry Zone:** EUR 645.70 – EUR 672.60  
+> **Obsidian Hub:** [[History/RHM.DE-History|RHM.DE History]] · [[_Trajectory-Dashboard|Portfolio Dashboard]]
 
 ### Source Filings & Reports
 - _No direct SEC EDGAR / SEOnet / local PDF filings located (drop a PDF into `drop_pdfs/` for Stage 2 ingestion)._
@@ -69,42 +70,63 @@ tags:
 - [x] **Operating expenses:**
   - **R&D:** N/A (N/A YoY, N/A of revenue).
   - **SG&A (Sales, Marketing & G&A):** N/A (N/A YoY, N/A of revenue).
-- [x] **Operating income and margin:** **EUR 455.00M** (+49.67% YoY; Operating Margin: **14.45%**, +128 bps YoY; TTM: EUR 2.07B).
-- [x] **Other income/expenses and Net Income:** Net Income of **EUR 296.00M** (+94.74% YoY; Net Margin: 9.40%; Other Income/Expense: EUR 6.00M).
+  - **Total Operating Expenses (IFRS / Combined):** EUR 1.16B (+28.71% YoY, -2.03% QoQ, 36.87% of revenue).
+- [x] **Operating income and margin:** **EUR 455.00M** (+49.67% YoY, -4.21% QoQ; Operating Margin: **14.45%**, +128 bps YoY; TTM: EUR 2.07B).
+- [x] **Other income/expenses and Net Income:** Net Income of **EUR 296.00M** (+94.74% YoY, +138.71% QoQ; Net Margin: 9.40%; Other Income/Expense: EUR 6.00M).
 
-| Income Statement Line Item | Latest Quarter (`2026-09-30`) | YoY % / bps | QoQ % | TTM |
+| Income Statement Line Item | Latest Quarter (`2026-09-30`) | YoY % / bps | QoQ % / bps | TTM |
 | :--- | :---: | :---: | :---: | :---: |
 | **Revenue** | EUR 3.15B | +36.44% | -4.26% | EUR 10.80B |
-| **Cost of Revenue** | EUR 1.53B | +39.11% | — | — |
-| **Gross Profit** | EUR 1.62B | — | — | — |
-| **Gross Margin (%)** | 51.32% | -93 bps | — | — |
-| **R&D Expense** | N/A | N/A | — | — |
-| **SG&A Expense** | N/A | N/A | — | — |
-| **Operating Income (EBIT)** | EUR 455.00M | +49.67% | — | EUR 2.07B |
-| **Operating Margin (%)** | 14.45% | +128 bps | — | — |
-| **Other Income / (Expense)** | EUR 6.00M | — | — | — |
-| **Net Income** | EUR 296.00M | +94.74% | — | EUR 859.00M |
+| **Cost of Revenue** | EUR 1.53B | +39.11% | -5.89% | EUR 5.07B |
+| **Gross Profit** | EUR 1.62B | +34.00% | -2.65% | EUR 5.73B |
+| **Gross Margin (%)** | 51.32% | -93 bps | +85 bps | 53.06% |
+| **R&D Expense** | N/A | N/A | N/A | N/A |
+| **SG&A Expense** | N/A | N/A | N/A | EUR 319.00M |
+| **Total Operating Expenses** | EUR 1.16B | +28.71% | -2.03% | EUR 3.65B |
+| **Operating Income (EBIT)** | EUR 455.00M | +49.67% | -4.21% | EUR 2.07B |
+| **Operating Margin (%)** | 14.45% | +128 bps | +1 bps | 19.21% |
+| **Other Income / (Expense)** | EUR 6.00M | — | +137.50% | -EUR 79.00M |
+| **Net Income** | EUR 296.00M | +94.74% | +138.71% | EUR 859.00M |
 
 - [x] **Automated Earnings Quality Check:** **WARNING: Non-Operating Boost to Net Income** — Net Income YoY (+94.7%) outpaced Operating Income YoY (+49.7%) by +45.1 pp — inspect FX, mark-to-market equity gains, interest income, or one-off tax items.
 - [x] **EPS vs. GAAP Net Income Note:** _Trailing EPS (EUR 28.42) differs by 35% from TTM GAAP Net Income / Shares (EUR 18.41) — likely due to discontinued operations or non-GAAP/continuing-ops adjustments._
 
 ### Balance Sheet (Period-over-Period)
-- [x] **Liquidity:** Cash, cash equivalents & short-term marketable securities: **EUR 636.00M** (+14.18% YoY).
+- [x] **Liquidity:** Cash, cash equivalents & short-term marketable securities: **EUR 636.00M** (+14.18% YoY, +149.41% QoQ).
 - [x] **Long-term assets:** Net PP&E: **EUR 3.00B** (+21.11% YoY).
 - [x] **Current liabilities:** Accounts Payable: **EUR 1.93B** (+39.42% YoY) — _Normal (+39.4% YoY change in Accounts Payable)_
-- [x] **Debt and Equity:** Total Debt: **EUR 3.54B** — Net Debt: **EUR 2.90B** — Debt-to-Equity: **66.40%** — Retained Earnings: **EUR 3.58B** — Stockholders' Equity: **EUR 5.33B**.
-- [x] **Share Count & Dilution:** Ordinary Shares: **46.67M** (+1.72% YoY) — **DILUTIVE (+1.72% YoY share count increase)**.
+- [x] **Debt and Equity:** Total Debt: **EUR 3.54B** (+45.56% YoY, +18.77% QoQ) — Net Debt: **EUR 2.90B** — Debt-to-Equity: **66.40%** — Retained Earnings: **EUR 3.58B** — Stockholders' Equity: **EUR 5.33B**.
+- [x] **Share Count & Dilution:** Ordinary Shares: **46.67M** (+1.72% YoY, +0.03% QoQ) — **DILUTIVE (+1.72% YoY share count increase)**.
 - [ ] **Off-balance-sheet commitments (Stage 2 Footnote Check):** Inspect filing notes for Joint Ventures (JVs), SPVs, VIEs, unrecorded lease/CapEx commitments, and customer credit guarantees.
 
 ### Statement of Cash Flows (Year-over-Year & TTM)
-- [x] **Operating Cash Flow (OCF):** Latest Quarter: **EUR 177.00M** (+129.87% YoY) — TTM OCF: **EUR 1.41B**.
+- [x] **Operating Cash Flow (OCF):** Latest Quarter: **EUR 177.00M** (+129.87% YoY, +115.93% QoQ) — TTM OCF: **EUR 1.41B**.
   - **D&A:** Latest: EUR 158.00M (TTM: EUR 581.00M).
   - **Stock-Based Compensation (SBC):** Latest: N/A (TTM: N/A — **N/A of OCF** — **N/A of Revenue**).
   - **Working Capital Change (Latest Quarter):** -EUR 226.00M.
-- [x] **Investing Activities (CapEx):** Latest Quarter CapEx: **EUR 241.00M** (-2.03% YoY) — TTM CapEx: **EUR 917.00M** (**CapEx Intensity: 7.65% of Revenue**).
-- [x] **Free Cash Flow (`FCF = OCF - CapEx`):** Latest Quarter FCF: **-EUR 64.00M** (+62.13% YoY; FCF Margin: -2.03%) — **TTM FCF: EUR 496.00M** (TTM FCF Margin: **4.59%**).
+- [x] **Investing Activities (CapEx):** Latest Quarter CapEx: **EUR 241.00M** (-2.03% YoY, -4.37% QoQ) — TTM CapEx: **EUR 917.00M** (**CapEx Intensity: 7.65% of Revenue**).
+- [x] **Free Cash Flow (`FCF = OCF - CapEx`):** Latest Quarter FCF: **-EUR 64.00M** (+62.13% YoY, +95.30% QoQ; FCF Margin: -2.03%) — **TTM FCF: EUR 496.00M** (TTM FCF Margin: **4.59%**).
   - **Cash Cushion & Self-Funding Diagnostic:** _NEGATIVE FCF BURN (Expansion CapEx / Working Capital — TTM OCF Remains Positive): Cash cushion covers ~9.9 quarters (2.5 years) at current burn rate._
 - [x] **Financing Activities (TTM):** Share Buybacks: N/A — Dividends Paid: -EUR 369.00M — Net Debt Issuance/(Repayment): EUR 1.19B.
+
+### 5-Quarter Financial Progression (Raw Trend)
+
+| Quarter End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | OCF | CapEx | FCF | Net Debt | Shares |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| `2025-09-30` | EUR 2.31B | N/A | 52.25% | 13.17% | EUR 152.00M | EUR 77.00M | EUR 246.00M | -EUR 169.00M | EUR 1.87B | 45.88M |
+| `2025-12-31` | EUR 2.42B | N/A | 51.90% | 40.00% | EUR 328.00M | EUR 2.50B | EUR 274.00M | EUR 2.23B | -EUR 409.00M | 45.88M |
+| `2026-03-31` | EUR 1.94B | N/A | 61.71% | 9.08% | EUR 111.00M | -EUR 155.00M | EUR 150.00M | -EUR 305.00M | EUR 828.00M | 46.50M |
+| `2026-06-30` | EUR 3.29B | N/A | 50.47% | 14.44% | EUR 124.00M | -EUR 1.11B | EUR 252.00M | -EUR 1.36B | EUR 2.72B | 46.66M |
+| `2026-09-30` | EUR 3.15B | +36.44% | 51.32% | 14.45% | EUR 296.00M | EUR 177.00M | EUR 241.00M | -EUR 64.00M | EUR 2.90B | 46.67M |
+
+### Multi-Year Annual Context
+
+| Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| `2022-12-31` | EUR 6.41B | N/A | 52.71% | 11.76% | EUR 474.00M | -EUR 175.00M | -2.73% | EUR 972.00M | 43.38M |
+| `2023-12-31` | EUR 7.18B | +11.95% | 54.86% | 11.90% | EUR 535.00M | EUR 345.00M | 4.81% | EUR 1.91B | 43.42M |
+| `2024-12-31` | EUR 7.71B | +7.51% | 53.84% | 17.23% | EUR 717.00M | EUR 988.00M | 12.81% | EUR 2.42B | 43.44M |
+| `2025-12-31` | EUR 9.94B | +28.78% | 52.38% | 17.13% | EUR 696.00M | EUR 1.42B | 14.24% | EUR 1.28B | 45.88M |
 
 ---
 
