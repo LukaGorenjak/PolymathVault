@@ -11,9 +11,23 @@ tags:
   - lkpg
 ---
 
-# LKPG — LUKA KOPER, d.d., Koper (Evaluation History & Multi-Period Progression)
+# LKPG — LUKA KOPER, d.d., Koper (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Regional Infrastructure / Utility** | **11.19% / +2.04%** | 48.20% | **STRONG** | N/A | 1.93% |
 
 ## Evaluated Quarters Timeline
 
@@ -35,8 +49,7 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2018-12-31` | EUR 226.00M | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| `2022-12-31` | EUR 313.46M | +38.70% | 33.04% | 26.20% | EUR 74.11M | EUR 73.15M | 23.34% | EUR 62.65M | 14.00M |
+| `2022-12-31` | EUR 313.46M | N/A | 33.04% | 26.20% | EUR 74.11M | EUR 73.15M | 23.34% | EUR 62.65M | 14.00M |
 | `2023-12-31` | EUR 312.77M | -0.22% | 27.02% | 19.40% | EUR 56.39M | EUR 40.06M | 12.81% | EUR 109.17M | 14.00M |
 | `2024-12-31` | EUR 330.06M | +5.53% | 28.02% | 20.23% | EUR 60.28M | EUR 28.94M | 8.77% | EUR 93.98M | 14.00M |
 | `2025-12-31` | EUR 380.30M | +15.22% | 32.95% | 25.61% | EUR 81.49M | -EUR 11.00M | -2.89% | EUR 78.79M | 14.00M |
@@ -45,15 +58,16 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[LKPG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Projected 2027 net sales revenue of 435.8 million EUR, representing a 6 percent increase over 2026 estimates.
-  - Planned 2027 EBIT of 99.3 million EUR, reflecting a 2 percent growth compared to 2026.
-  - Capital expenditure budget set at 167.2 million EUR for 2027, focusing on container terminal expansion and infrastructure.
-  - Targeting 1.338 million TEU container throughput and 895 thousand vehicle units for 2027.
+  - Group net sales revenue is estimated at EUR 410.1 million for 2026, representing an 8 percent increase over the previous year.
+  - Operating profit (EBIT) for 2026 is projected at EUR 97.3 million, supported by robust container throughput and storage fees.
+  - Total capital investments for 2026 are estimated at EUR 180.9 million, directed toward container terminal expansions and garage facilities.
+  - Business plan for 2027 forecasts net sales revenue of EUR 435.8 million and container throughput reaching 1338 thousand TEU.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-18)):**
-  - 2026 EBIT estimate of 97.3 million EUR significantly outperformed the original 2026 plan by 36 percent.
-  - 2026 net sales revenue exceeded the initial 2026 plan by 7 percent, driven by container and storage performance.
+  - Current 2026 estimated net sales revenue of EUR 410.1 million exceeds initial internal targets by 7 percent.
+  - Estimated 2026 EBIT of EUR 97.3 million significantly outperforms original internal plan by 36 percent.
+  - Car throughput fell 2 percent short of the prior plan due to weaker European vehicle exports.
 - **Post-Earnings Thesis:**
-  - The company maintains a positive growth trajectory supported by strategic infrastructure investments.
-  - 2027 outlook balances volume growth against rising labor and depreciation costs from new assets.
-  - Management remains cautious regarding geopolitical risks and infrastructure bottlenecks in the rail network.
-  - Financial stability is expected to remain solid despite higher leverage planned for capital projects.
+  - Group net revenue for 2027 is targeted at EUR 435.8 million, driven by higher container throughput and pricing adjustments.
+  - Intensive capital expenditure cycle will continue with EUR 167.2 million allocated in 2027 for terminal and digital upgrades.
+  - Headcount is planned to reach 2951 employees by the end of 2027 to support expanded terminal operations.
+  - Long-term earnings growth remains secured by unmatched port infrastructure in the Northern Adriatic gateway.
