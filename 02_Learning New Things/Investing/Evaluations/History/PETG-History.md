@@ -44,14 +44,15 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[PETG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Management expects full-year 2026 EBITDA to be approximately 15 percent lower than initially planned due to ongoing regulatory pressures.
-  - The group maintains a protocol for potential fuel dispensing limits or station closures if price regulation renders sites unprofitable.
-  - Petrol continues legal actions for damages against Slovenia (106.9m EUR and 70.3m EUR) and Croatia (60m EUR) over restrictive price caps.
+  - Management expects 2026 EBITDA to be approximately 15 percent lower than the original plan due to persistent regulatory headwinds.
+  - The company has established a formal protocol to potentially limit fuel sales or close unprofitable service stations if regulatory conditions do not improve.
+  - Petrol continues to pursue legal action against the Republic of Slovenia and the Republic of Croatia for damages caused by fuel price regulation.
+  - Strategic focus remains on energy transition, digitalization, and the expansion of the electric vehicle charging network.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-28)):**
-  - Initial full-year 2026 optimistic expectations were revised downward, with management now guiding 2026 EBITDA to be 15 percent below plan.
-  - First-half delivery suffered from unrecoverable March losses, and third-quarter EBITDA declined by 6.5 million EUR year-over-year.
+  - The company failed to meet original 2026 EBITDA targets, now projecting a 15 percent shortfall.
+  - Despite volume growth, the regulatory environment prevented the realization of planned profitability levels.
 - **Post-Earnings Thesis:**
-  - Full-year 2026 EBITDA is guided to be roughly 15 percent below plan due to the unrecoverable losses sustained from early-year price caps.
-  - Management will continue aggressive cost optimization and operational efficiency programs to counteract ongoing margin squeezes.
-  - The investment thesis remains defensive and constrained by regulatory intervention until structural price liberalization occurs.
-  - S&P's positive credit outlook and ongoing legal challenges offer potential medium-term catalysts for valuation re-rating.
+  - The company expects 2026 EBITDA to fall 15 percent short of initial targets due to regulatory constraints.
+  - Management will prioritize cost control and operational efficiency to mitigate ongoing margin compression.
+  - The firm will continue to lobby for the full liberalization of fuel prices to ensure long-term financial stability.
+  - Strategic capital allocation will remain focused on energy transition and digital infrastructure.
