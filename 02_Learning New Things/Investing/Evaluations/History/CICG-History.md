@@ -35,8 +35,8 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2021-12-31` | N/A | N/A | N/A | N/A | EUR 33.23M | N/A | N/A | N/A | N/A |
-| `2022-12-31` | EUR 227.15M | N/A | 40.64% | 23.60% | EUR 43.40M | EUR 10.48M | 4.62% | N/A | 7.82M |
+| `2018-12-31` | EUR 163.96M | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| `2022-12-31` | EUR 227.15M | +38.54% | 40.64% | 23.60% | EUR 43.40M | EUR 10.48M | 4.62% | N/A | 7.82M |
 | `2023-12-31` | EUR 176.46M | -22.31% | 28.46% | 7.84% | EUR 12.65M | EUR 7.93M | 4.49% | N/A | 7.82M |
 | `2024-12-31` | EUR 200.29M | +13.50% | 36.93% | 10.52% | EUR 23.09M | EUR 41.85M | 20.89% | N/A | 7.78M |
 | `2025-12-31` | EUR 198.80M | -0.74% | 36.76% | 11.11% | EUR 19.47M | EUR 5.28M | 2.66% | N/A | 7.78M |
@@ -45,14 +45,13 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[CICG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Cinkarna Celje exceeded its planned net profit for the first nine months of 2026 despite challenging conditions.
-  - The company maintains a strong financial position with a robust EBITDA margin of 18.1 percent and low indebtedness.
-  - Management remains cautious regarding the rest of the year due to high input costs for sulphur, energy, and transport.
-  - Strategic capital expenditures of EUR 9.1 million were allocated toward energy efficiency, production reliability, and environment.
+  - Management expects to continue implementing strategic investments despite ongoing market uncertainty and high raw material costs.
+  - The company plans a major overhaul of its core production programme in the coming period to maintain long-term competitiveness.
+  - Internal succession for the Technical Director role is set for April 2027 to ensure leadership continuity and strategic stability.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-09-02)):**
-  - Net profit for the first nine months of 2026 exceeded internal company plans despite adverse macroeconomic headwinds.
-  - Management maintained a prudent stance on second-half prospects due to persistent unpredictability in raw material costs.
+  - Net profit for the first nine months exceeded the internal business plan despite challenging market conditions.
+  - Investment spending of 9.1 million EUR is tracking in line with the annual strategic plan.
 - **Post-Earnings Thesis:**
-  - Cinkarna Celje offers a defensive investment profile backed by a net-cash balance sheet and a strong dividend yield.
-  - Near-term profitability will remain constrained by high sulphur procurement costs and subdued European pigment demand.
-  - Long-term structural upside relies on successful execution of energy efficiency projects and eventual macroeconomic recovery.
+  - The company maintains a prudent outlook due to persistent geopolitical risks and high energy costs.
+  - Strategic focus remains on production efficiency and long-term competitiveness through selective capital expenditure.
+  - Management expects to navigate the industrial cycle by leveraging its strong balance sheet and operational flexibility.
