@@ -16,3 +16,4 @@
 	- An increase in accounts receivable could mean the company is not collecting money from its customers, and is negative for cash flow.
 	- An increase in inventory (outflow) could indicate a building stockpile of unsold products.
 
+## Insights to be Gained in FCF Analysis
