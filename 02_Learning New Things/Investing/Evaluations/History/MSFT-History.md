@@ -11,9 +11,23 @@ tags:
   - msft
 ---
 
-# MSFT — Microsoft Corporation (Evaluation History & Multi-Period Progression)
+# MSFT — Microsoft Corporation (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Reinvestment Compounder** | **35.39% / +25.34%** | 68.70% | **FORTRESS (Net Cash)** | 45.10% | 1.33% |
 
 ## Evaluated Quarters Timeline
 
@@ -45,14 +59,12 @@ tags:
 ### 2026Q3 (`2026-11-22`) — [[MSFT-2026Q3]]
 - **Management Guidance & Drivers:**
   - Commercial remaining performance obligation increased 73% year-over-year to reach $677 billion.
-  - Microsoft Cloud revenue grew 30% year-over-year to $63.9 billion driven by robust cloud adoption.
-  - Azure revenue experienced accelerated growth of 48% year-over-year across compute and GPU workloads.
+  - Microsoft Cloud revenue grew 30% year-over-year to reach $63.9 billion for the quarter.
+  - Azure and other cloud services revenue increased 48% driven by robust consumption trends.
 - **Guidance vs. Delivery Check (Prior SEC EDGAR 10-K (2026-07-29)):**
-  - Delivered robust Microsoft Cloud revenue growth of 30% against strong historical expansion targets.
-  - Azure revenue growth accelerated to 48%, outperforming broader industry consumption trends.
-  - Management maintained disciplined capital allocation while scaling AI infrastructure capacity.
+  - Delivered robust commercial RPO expansion of 73% demonstrating strong multi-year enterprise commitment.
+  - Microsoft Cloud revenue reached $63.9 billion representing 30% year-over-year growth in line with scaling expectations.
 - **Post-Earnings Thesis:**
-  - Microsoft remains well-positioned to capture long-term enterprise AI demand backed by its dominant Azure cloud platform and strategic OpenAI partnership.
-  - Aggressive capital expenditure on datacenters will sustain infrastructure leadership but keep near-term free cash flow margins compressed.
-  - Monetization of AI tools like Copilot and agentic workflows will be crucial to offset rising infrastructure cost structures.
-  - Commercial remaining performance obligation growth of 73% underpins a resilient multi-year revenue outlook despite hardware cyclicality.
+  - Accelerating enterprise cloud migration and AI adoption will drive sustained double-digit top-line growth.
+  - Substantial infrastructure investments will pressure near-term operating margins before yielding scale efficiencies.
+  - A fortress net cash balance sheet provides unmatched financial flexibility to fund aggressive capex cycles.

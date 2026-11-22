@@ -11,9 +11,23 @@ tags:
   - petg
 ---
 
-# PETG — PETROL d.d., Ljubljana (Evaluation History & Multi-Period Progression)
+# PETG — PETROL d.d., Ljubljana (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Regional Infrastructure / Utility** | **7.09% / -1.30%** | 91.40% | **ELEVATED LEVERAGE** | 2808.50% | 3.82% |
 
 ## Evaluated Quarters Timeline
 
@@ -44,15 +58,13 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[PETG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Management expects 2026 EBITDA to be approximately 15 percent lower than the original plan due to persistent regulatory headwinds.
-  - The company has established a formal protocol to potentially limit fuel sales or close unprofitable service stations if regulatory conditions do not improve.
-  - Petrol continues to pursue legal action against the Republic of Slovenia and the Republic of Croatia for damages caused by fuel price regulation.
-  - Strategic focus remains on energy transition, digitalization, and the expansion of the electric vehicle charging network.
+  - Management guides for full-year 2026 EBITDA to be approximately 15 percent lower than initially planned due to regulatory pressures.
+  - The group threatens to implement a protocol limiting fuel dispensing or closing unprofitable service stations if margins remain impaired.
+  - Petrol continues active lawsuits against the Republic of Slovenia totaling 177.2 million EUR and against Croatia for 60 million EUR.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-28)):**
-  - The company failed to meet original 2026 EBITDA targets, now projecting a 15 percent shortfall.
-  - Despite volume growth, the regulatory environment prevented the realization of planned profitability levels.
+  - Management lowered full-year 2026 EBITDA expectations to a 15 percent deficit versus initial targets due to ongoing regulatory shocks.
+  - First-half underperformance carried directly into the third quarter with EBITDA falling 8 percent year-over-year in 9M 2026.
 - **Post-Earnings Thesis:**
-  - The company expects 2026 EBITDA to fall 15 percent short of initial targets due to regulatory constraints.
-  - Management will prioritize cost control and operational efficiency to mitigate ongoing margin compression.
-  - The firm will continue to lobby for the full liberalization of fuel prices to ensure long-term financial stability.
-  - Strategic capital allocation will remain focused on energy transition and digital infrastructure.
+  - Management expects full-year 2026 EBITDA to finish approximately 15 percent below initial internal targets.
+  - The company will press forward with operational efficiency measures and cost controls to mitigate margin erosion.
+  - Petrol will maintain strict advocacy for market price deregulation to restore financial stability and secure reliable supply.
