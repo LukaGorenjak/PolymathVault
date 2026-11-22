@@ -1,5 +1,5 @@
 Based on: [When quarterly results tank the market. A look under the hood of Alphabet.](https://www.youtube.com/watch?v=xpR76dE28rA) (Andrew The Investor)
-Also look at 
+Also look at qualtrim.com 
 
 ---
 
