@@ -3,3 +3,4 @@
 - Investors and analysts rely on it as a key measure of a company's financial flexibility and underlying profitability.
 - Unlike earnings or net income, FCF excludes the [[Non-Cash Expenses]] of comapny's income statement. Includes CapEx such as PP&E - Property, Plant and Equipment, changes in working capital. Making it more favorable for some investors.
 - Free cash flow is the money a company has available to repay creditors, pay dividends, reduce debt, or reinvest in the business.
+- PP&E accounting can make FCF a
