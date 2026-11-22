@@ -11,9 +11,23 @@ tags:
   - krkg
 ---
 
-# KRKG — KRKA, d. d., Novo mesto (Evaluation History & Multi-Period Progression)
+# KRKG — KRKA, d. d., Novo mesto (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Reinvestment Compounder** | **20.86% / +14.36%** | 79.10% | **FORTRESS (Net Cash)** | 64.10% | 4.06% |
 
 ## Evaluated Quarters Timeline
 
@@ -44,15 +58,15 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[KRKG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Full-year 2026 revenue is projected to reach €2,179 million, surpassing prior targets with 7% year-on-year growth.
-  - Management plans 2027 revenue of €2,308 million and net profit of €474 million, supported by robust core demand.
-  - Capital expenditure for 2026 is estimated at under €115 million, increasing to €141 million in 2027 for production expansion.
+  - Projected 2026 revenue of 2.179 billion EUR, representing a 7% year-on-year increase.
+  - Forecasted 2026 net profit of 439 million EUR, exceeding the original plan by 34 million EUR.
+  - Planned 2027 revenue of 2.308 billion EUR with an 8% projected growth in net profit to 474 million EUR.
+  - Capital expenditure planned at 141 million EUR for 2027, focusing on production facility expansion and modernization.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-07-23)):**
-  - Management raised full-year 2026 revenue expectations to €2,179 million, exceeding original business plan targets.
-  - Full-year 2026 net profit estimates were increased by €34 million to €439 million, reflecting stronger operational profitability.
-  - Actual nine-month net profit of €364.2 million tracks well ahead of annualized prior period delivery.
+  - Full-year 2026 revenue estimate of 2.179 billion EUR exceeds the original 2026 revenue target.
+  - Estimated 2026 net profit of 439 million EUR outstrips the original plan by 34 million EUR.
 - **Post-Earnings Thesis:**
-  - Krka demonstrates superior financial resilience with high operating profitability and a fortress net cash balance sheet.
-  - Ongoing investments in production capacity and a robust new product pipeline provide clear visibility for sustained organic growth.
-  - Attractive valuation multiples coupled with consistent share repurchases offer strong shareholder value accretion.
-  - Geographic diversification and leadership in generic cardiovascular treatments mitigate single-market risks effectively.
+  - Management expects continued growth in 2027 driven by product portfolio expansion and market penetration.
+  - Strategic focus remains on maintaining high ROIC through disciplined capital allocation in production facilities.
+  - The company is well-positioned to navigate currency risks through natural hedging and strong cash flow generation.
+  - Long-term growth is supported by a robust pipeline of prescription and non-prescription pharmaceuticals.
