@@ -17,3 +17,12 @@
 	- An increase in inventory (outflow) could indicate a building stockpile of unsold products.
 
 ## Insights to be Gained in FCF Analysis
+For example, assume that a company made $50,000,000 per year in net income each year for the last decade. This number would appear on the income statement and would lead investors or analysts to assume that the company is in stable financial health.
+
+However, a look at the free cash flow might show a different story. If FCF was dropping over the last two years, the numbers might indicate that inventories were rising (outflow), customers were delaying payments (inflow), or vendors were demanding faster payments (outflow). These would be worrisome trends, indicating the potential for future problems.
+
+In this situation, FCF has revealed [financial weaknesses](https://www.investopedia.com/articles/financialcareers/07/warning_signs.asp) that wouldn’t be apparent from an examination of the income statement.
+
+Looking at FCF is also helpful for potential shareholders or lenders who want to evaluate how likely it is that the company will be able to pay its expected dividends or interest. If the company’s debt payments are [deducted from free cash flow to the firm](https://www.investopedia.com/ask/answers/041615/how-do-i-discount-free-cash-flow-firm-fcff.asp) (FCFF), a lender would have a better idea of the quality of cash flows available for paying additional debt.
+
+Shareholders can use FCF minus interest payments to predict the [stability of future dividend payments](https://www.investopedia.com/articles/03/011703.asp).
