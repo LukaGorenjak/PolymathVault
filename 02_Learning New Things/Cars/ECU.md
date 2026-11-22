@@ -1,1 +1,1 @@
-It's a cimputer/b
+It's a cimputer/brain of the car. It has a bunch of inputs from the engine and outputs to the injectors and ignit
