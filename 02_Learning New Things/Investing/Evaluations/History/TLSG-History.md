@@ -11,9 +11,23 @@ tags:
   - tlsg
 ---
 
-# TLSG — TELEKOM SLOVENIJE, d.d., Ljubljana (Evaluation History & Multi-Period Progression)
+# TLSG — TELEKOM SLOVENIJE, d.d., Ljubljana (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Regional Infrastructure / Utility** | **6.92% / -0.63%** | 121.30% | **MODERATE** | 37.60% | 2.80% |
 
 ## Evaluated Quarters Timeline
 
@@ -35,8 +49,7 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2018-12-31` | EUR 731.22M | +0.71% | N/A | N/A | EUR 17.61M | N/A | N/A | N/A | N/A |
-| `2022-12-31` | EUR 652.12M | -10.82% | 51.64% | 8.51% | EUR 37.51M | EUR 45.33M | 6.95% | EUR 439.38M | 6.54M |
+| `2022-12-31` | EUR 652.12M | N/A | 51.64% | 8.51% | EUR 37.51M | EUR 45.33M | 6.95% | EUR 439.38M | 6.54M |
 | `2023-12-31` | EUR 694.91M | +6.56% | 52.20% | 11.01% | EUR 47.06M | EUR 74.77M | 10.76% | EUR 412.26M | 6.54M |
 | `2024-12-31` | EUR 712.44M | +2.52% | 53.48% | 12.03% | EUR 55.19M | EUR 58.57M | 8.22% | EUR 390.65M | 6.54M |
 | `2025-12-31` | EUR 740.51M | +3.94% | 54.24% | 13.12% | EUR 60.55M | EUR 64.29M | 8.68% | EUR 439.69M | 6.54M |
@@ -45,11 +58,13 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[TLSG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Continued deployment of 5G infrastructure to cover nationwide populations and drive advanced ICT service adoption.
-  - Potential resolution or easing of disproportionate regulatory burdens by AKOS in the fixed broadband segment.
-  - Strategic expansion of digital and IT service offerings alongside enhanced cybersecurity and eHealth solutions.
+  - Targeting 2026 sales revenue of EUR 737.3 million and EBITDA of EUR 255.5 million.
+  - Aiming for 2026 net profit of EUR 59.9 million with planned investments of EUR 217.2 million.
+  - Strategic goal to reach EUR 280 million EBITDA and EUR 83 million net profit by 2028.
+  - Commitment to carbon neutrality for Scope 1 and 2 emissions by 2028.
+  - Dividend policy targets payout of 30% to 50% of net profit based on financial position.
 - **Post-Earnings Thesis:**
-  - Telekom Slovenije Group is successfully executing its business plan with steady revenue and EBITDA growth.
-  - Strong free cash flow generation supports robust ongoing investments in fiber and 5G network upgrades.
-  - Management maintains full-year objectives for 2026 underpinned by resilient operational performance and disciplined cost management.
-  - Long-term value creation relies on balancing regulatory constraints while scaling digital and IT enterprise solutions.
+  - Management expects to meet 2026 strategic objectives despite regulatory challenges.
+  - Focus remains on digital transformation and ICT service growth to offset legacy declines.
+  - Network modernization and 5G expansion are key to maintaining competitive advantage.
+  - Group maintains a disciplined approach to capital allocation and dividend distribution.
