@@ -1,0 +1,39 @@
+[Ime in priimek]
+[Ulica in hišna številka]
+[Poštna številka in kraj]
+[Telefonska številka]
+[E-poštni naslov]
+
+INEL industrijska elektronika d.o.o.
+Kadrovska služba
+Bukovžlak 105
+3000 Celje
+
+[Kraj], [datum, npr. 21. november 2026]
+
+
+Zadeva: Prošnja za kadrovsko štipendijo – študijsko leto 2027/28 (računalništvo in informatika)
+
+
+Spoštovani,
+
+obračam se na vas z željo po pridobitvi kadrovske štipendije vašega podjetja za prihajajoči študij Računalništva in informatike na Fakulteti za računalništvo in informatiko Univerze v Ljubljani (UL FRI), z začetkom v študijskem letu 2027/28. Vaše podjetje sem že pobliže spoznal v času letošnje prakse in nadaljnjega dela v oddelku PC, ta izkušnja pa me je prepričala, da si pri vas želim graditi svojo dolgoročno poklicno pot.
+
+Trenutno obiskujem 4. letnik programa tehnik računalništva na [Ime srednje šole], kjer dosegam prav dober učni uspeh. Pri vas sem v oddelku PC opravil dvomesečno obvezno prakso, med katero sem spoznal vaše razvojne procese ter sodeloval pri projektih in odpravljanju napak v programski kodi. Po zaključku prakse sem v oddelku nadaljeval še mesec dni z delom prek študentskega servisa, kjer sem v ekipi dveh zaposlenih in še dveh študentov sodeloval pri razvoju orodja za testerje, namenjenega shranjevanju xUnit testov. O mojem delu, pristopu in sodelovanju z ekipo vam lahko podrobnejšo povratno informacijo poda tudi [Ime in priimek mentorja oz. vodje oddelka PC].
+
+Poleg šolskega uspeha in praktičnih izkušenj pri vas sem svojo samoiniciativnost ter sposobnost ekipnega reševanja izzivov potrdil tudi z osvojenim 2. mestom na Telemachovem hackathonu JobLab. Podrobnejši pregled mojih tehničnih znanj in izkušenj prilagam v življenjepisu.
+
+V teh treh mesecih pri INEL-u sta me najbolj prepričali kakovostna delovna kultura ter podpora ekipe in mentorjev v oddelku PC, kjer sem se hitro ujel in se veliko naučil. Čeprav se na študij odpravljam v Ljubljano, si želim dolgoročno kariero ustvariti v uspešnem in stabilnem podjetju v domači savinjski regiji. V času študijskega leta se nameravam v celoti posvetiti rednemu in uspešnemu opravljanju študijskih obveznosti, z vami pa želim ostati aktivno povezan prek študentskega dela med poletnimi počitnicami – z veseljem že to poletje pred vpisom na fakulteto – ter pozneje z opravljanjem obvezne študijske prakse in pripravo diplomske naloge v vašem podjetju. Po zaključku študija si želim dolgoročne zaposlitve v vaši ekipi.
+
+Zavedam se, da so pogoji štipendiranja stvar medsebojnega dogovora, zato sem odprt za različne možnosti sodelovanja. Vesel bom povabila na kratek pogovor, na katerem vam lahko podrobneje predstavim svoje načrte za študij in prisluhnem vašim pričakovanjem.
+
+Lep pozdrav,
+
+
+[Lastnoročni podpis pri tisku ali čist podpis v PDF]
+[Ime in priimek]
+
+
+Priloge:
+- Življenjepis (CV)
+- Kopija spričevala 3. letnika
