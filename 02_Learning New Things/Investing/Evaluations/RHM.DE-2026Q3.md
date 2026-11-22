@@ -22,7 +22,7 @@ tags:
 # RHM.DE — Rheinmetall AG (2026Q3 Stock Evaluation)
 
 > **Business Trajectory:** **MIXED** — **Valuation Expectations:** **FAIR** — **Data Confidence:** **80%**  
-> **Current Share Price:** EUR 693.40 — **Base DCF Context:** EUR 621.18 — **Technical Entry Zone:** EUR 672.60 – EUR 672.60
+> **Current Share Price:** EUR 693.40 — **Base DCF Context:** EUR 621.18 — **Technical Entry Zone:** EUR 645.70 – EUR 672.60
 
 ### Source Filings & Reports
 - _No direct SEC EDGAR / SEOnet / local PDF filings located (drop a PDF into `drop_pdfs/` for Stage 2 ingestion)._
@@ -175,7 +175,7 @@ tags:
 | Technical Indicator | Value / Level | Signal / Classification |
 | :--- | :---: | :--- |
 | **Current Price** | **EUR 693.40** | — |
-| **90-Day Support (`S1` / `S2`)** | **EUR 672.60** / **EUR 672.60** | Nearest ATR-bounded swing demand zones |
+| **90-Day Support (`S1` / `S2`)** | **EUR 672.60** / **EUR 645.70** | Nearest ATR-bounded swing demand zones |
 | **90-Day Resistance (`R1` / `R2`)** | **EUR 884.50** / **EUR 987.10** | Nearest overhead supply zones |
 | **Moving Averages (`SMA20` / `SMA50` / `SMA200`)** | EUR 877.21 / EUR 946.24 / EUR 1,199.59 | Short, medium & long-term trend |
 | **RSI (14) (Wilder)** | **`21.88`** | **Oversold < 30** |
@@ -198,7 +198,7 @@ tags:
 | **Valuation Expectations (Axis 2)** | **FAIR** | Valuation sub-score: `15/40` |
 | **Data Confidence** | **80%** | 2 caveat(s) flagged below |
 | **DCF Context Range (Bear / Base / Bull)** | **EUR 423.54 / EUR 621.18 / EUR 913.17** | Reference only — not a standalone price target |
-| **Technical Entry Zone** | **EUR 672.60 – EUR 672.60** | EUR 672.60 – EUR 672.60 (anchored by S1 `EUR 672.60`, S2 `EUR 672.60`, SMA50 `EUR 946.24`) |
+| **Technical Entry Zone** | **EUR 645.70 – EUR 672.60** | Anchored by S1 `EUR 672.60`, S2 `EUR 645.70`, SMA50 `EUR 946.24` |
 
 ### Decision Rationale
 - **Valuation Expectations (FAIR):** Base DCF implies EUR 621.18 (-10.4% vs. EUR 693.40); Reverse DCF implies 18.9% 5Y FCF CAGR (vs. Base 17.2%).
