@@ -11,9 +11,23 @@ tags:
   - mcd
 ---
 
-# MCD — McDonald's Corporation (Evaluation History & Multi-Period Progression)
+# MCD — McDonald's Corporation (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Reinvestment Compounder** | **19.93% / +12.91%** | 84.60% | **ELEVATED LEVERAGE** | 70.40% | 3.95% |
 
 ## Evaluated Quarters Timeline
 
@@ -44,13 +58,15 @@ tags:
 
 ### 2026Q3 (`2026-11-22`) — [[MCD-2026Q3]]
 - **Management Guidance & Drivers:**
-  - Management introduced the McDonald's Next strategy to unlock growth and productivity through four interconnected pillars.
-  - The company plans to provide approximately 8.5 billion dollars in total cash partnering support through the end of 2036.
-  - McDonald's aims to gain roughly 1.5 percentage points of market share in chicken and beverage categories by the end of 2030.
+  - Deployment of McDonald’s > NEXT strategy to drive long-term comparable sales growth and market share gains.
+  - Planned $8.5 billion in total cash partnering support through 2036, with $5 billion allocated by 2030.
+  - Targeting 250 basis points of gross restaurant-level efficiency gains via the Restaurant > NEXT initiative.
+  - Goal to gain 1.5 percentage points of market share in chicken and beverage categories by end of 2030.
 - **Guidance vs. Delivery Check (Prior SEC EDGAR 10-Q (2026-08-07)):**
-  - Management successfully delivered positive global comparable sales growth of 1.5 percent, tracking in line with long-term targets.
-  - The company maintained its disciplined capital return profile, executing steady share buybacks and dividend payments.
+  - Global comparable sales growth of 1.5% for Q3 2026 reflects continued, albeit moderated, growth compared to prior periods.
+  - Operating income increased 7% for the quarter, demonstrating strong execution against strategic initiatives.
 - **Post-Earnings Thesis:**
-  - The McDonald's Next strategy provides a clear multi-year roadmap for sustained comparable sales growth and margin expansion.
-  - Prudent capital allocation combining digital investments, debt servicing, and share repurchases supports shareholder value.
-  - Extensive cash partnering commitments will effectively reinforce franchisee alignment and long-term system health.
+  - Management expects the NEXT Strategy to drive durable comparable sales growth and market share gains.
+  - Focus on elevating taste, quality, and hospitality to create more first-choice occasions for customers.
+  - Continued capital allocation toward business growth, dividends, and share repurchases.
+  - Anticipated 250 basis points of gross restaurant-level efficiency gains from technology deployment.

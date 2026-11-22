@@ -230,3 +230,34 @@ tags:
 ### Data Confidence & Caveats
 - ⚠️ No official 10-Q/SEOnet/PDF filing downloaded (Stage 2 qualitative verification skipped).
 - ⚠️ Trailing EPS (EUR 28.42) differs by 35% from TTM GAAP Net Income / Shares (EUR 18.41) — likely due to discontinued operations or non-GAAP/continuing-ops adjustments.
+
+---
+
+## 9. Long-Term Compounder Lens (15+ Year Horizon)
+- [x] **Multi-Year Window Analyzed:** `FY2022–FY2025` (4 contiguous fiscal year(s)) — **Balance Sheet Survivability:** **STRONG**.
+
+### Quantitative 15+ Year Quality & Compounding Metrics (Stage 1)
+
+| Long-Term Pillar / Metric | Value | 15+ Year Context |
+| :--- | :---: | :--- |
+| **ROIC (Multi-Year Avg / Latest FY)** | **19.15%** / 26.52% | NOPAT / Invested Capital (FY2022–FY2025) |
+| **ROIC vs. WACC Spread** | **+12.65%** | Sustained positive spread is the core 15Y compounding engine |
+| **Incremental ROIC** | **45.10%** | Change in NOPAT / Change in Invested Capital (FY2022–FY2025) |
+| **Reinvestment Rate / Implied Organic Compounding** | 54.60% / **10.46%** | `ROIC × Reinvestment Rate` theoretical organic growth |
+| **Cumulative Cash Conversion (`FCF / Net Income`)** | **106.20%** | Multi-year cumulative FCF vs. accounting Net Income |
+| **Operating Margin Range (FY2022–FY2025)** | **11.76% – 17.23% (Avg: 14.51%)** | Rev grew `3/3` yrs; Positive FCF `3/4` yrs |
+| **Per-Share Compounding (Rev/Sh / FCF/Sh CAGR)** | **+13.59%** / **+97.01%** | What an owner actually compounds per share |
+| **Interest Coverage (`EBIT / Interest`)** | **14.40x** | Strong (>10x) |
+| **Net Debt / EBITDA & Debt Payoff** | **1.07x** / **4.4 yrs** | Solvency: **STRONG** |
+| **Share Count Multi-Year CAGR** | **+1.88%** | Negative = accretive buybacks; positive = dilution |
+| **Dividend Payout (TTM FCF) & Shareholder Yield** | **74.40%** / **1.14%** | Dividends + net buybacks as % of market cap |
+
+### 15+ Year Moat, Reinvestment Runway & Structural Risks
+- [ ] _Stage 2 15-Year Check: Classify Compounding Archetype and Moat Durability (Widening / Stable / Eroding) from annual/interim filing._
+- [ ] _Stage 2 15-Year Check: Assess 10–15 year reinvestment runway and existential structural threats._
+
+### 2041 "Sleep-Well" Owner Checklist
+- [ ] **2041 Relevance:** Will customers still need this exact product/service in 15 years? (Edit your permanent thesis in [[History/RHM.DE-History#My 15-Year Thesis & Kill-Switches|RHM.DE History]])
+- [ ] **Alignment & Governance:** Is management/state ownership allocating capital for long-term per-share value?
+- [ ] **Crash Conviction:** Would I comfortably hold or add to this business through a `-40%` market drawdown?
+- [ ] **Kill-Switch Discipline:** Has any structural moat or solvency pillar broken (not just a single noisy quarter)?

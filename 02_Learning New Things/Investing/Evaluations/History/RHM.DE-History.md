@@ -11,9 +11,23 @@ tags:
   - rhm.de
 ---
 
-# RHM.DE — Rheinmetall AG (Evaluation History & Multi-Period Progression)
+# RHM.DE — Rheinmetall AG (Evaluation History & 15-Year Compounder Hub)
 
 > **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+
+<!-- USER-THESIS-START -->
+## My 15-Year Thesis & Kill-Switches
+- **Why I own / watch this for 2041:** _Add your 1–2 sentence long-term thesis here (this block is preserved across automatic updates and checked by Stage 2 on future earnings)._
+- **2041 Relevance Check:** [ ] Will customers still need this exact product/service in 15 years?
+- **Structural Kill-Switches (What would make me sell):**
+  - _e.g. Sustained ROIC falling below WACC for 2+ years, moat erosion, regulatory cap, or balance-sheet stress._
+<!-- USER-THESIS-END -->
+
+## 15-Year Compounder Summary
+
+| Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Stage 1 Only** | **19.15% / +12.65%** | 106.20% | **STRONG** | 74.40% | 1.14% |
 
 ## Evaluated Quarters Timeline
 
