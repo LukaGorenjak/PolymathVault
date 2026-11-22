@@ -7,3 +7,4 @@
 - Analysts who need to evaluate a company's expected performance with diffrent capital structures will use  variations of FCF, FCFE
 
 # Benefits of Using FCF
+- Provides important insights into a company's:
