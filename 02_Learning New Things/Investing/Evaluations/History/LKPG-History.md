@@ -35,8 +35,8 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2021-12-31` | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| `2022-12-31` | EUR 313.46M | N/A | 33.04% | 26.20% | EUR 74.11M | EUR 73.15M | 23.34% | EUR 62.65M | 14.00M |
+| `2018-12-31` | EUR 226.00M | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| `2022-12-31` | EUR 313.46M | +38.70% | 33.04% | 26.20% | EUR 74.11M | EUR 73.15M | 23.34% | EUR 62.65M | 14.00M |
 | `2023-12-31` | EUR 312.77M | -0.22% | 27.02% | 19.40% | EUR 56.39M | EUR 40.06M | 12.81% | EUR 109.17M | 14.00M |
 | `2024-12-31` | EUR 330.06M | +5.53% | 28.02% | 20.23% | EUR 60.28M | EUR 28.94M | 8.77% | EUR 93.98M | 14.00M |
 | `2025-12-31` | EUR 380.30M | +15.22% | 32.95% | 25.61% | EUR 81.49M | -EUR 11.00M | -2.89% | EUR 78.79M | 14.00M |
@@ -45,16 +45,15 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[LKPG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Group net sales revenue for 2026 is estimated at 410.1m EUR, exceeding the plan by 7 percent due to container growth.
-  - Container throughput for 2026 is estimated at 1,286 thousand TEU, representing a 3 percent outperformance over the target.
-  - Total capital investments for 2027 are planned at 167.2m EUR, focusing heavily on container terminal expansion and digital upgrades.
-  - Group EBIT for 2027 is projected at 99.3m EUR, reflecting moderate growth compared to the estimated 97.3m EUR for 2026.
+  - Projected 2027 net sales revenue of 435.8 million EUR, representing a 6 percent increase over 2026 estimates.
+  - Planned 2027 EBIT of 99.3 million EUR, reflecting a 2 percent growth compared to 2026.
+  - Capital expenditure budget set at 167.2 million EUR for 2027, focusing on container terminal expansion and infrastructure.
+  - Targeting 1.338 million TEU container throughput and 895 thousand vehicle units for 2027.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-18)):**
-  - Estimated 2026 net sales revenue of 410.1m EUR exceeds original internal targets by 7 percent, driven by storage and container strength.
-  - Estimated 2026 EBIT of 97.3m EUR outperforms initial plans by 36 percent, reflecting strong operational cost control.
-  - Car throughput for 2026 missed prior expectations, ending 2 percent below plan due to weaker regional export demand.
+  - 2026 EBIT estimate of 97.3 million EUR significantly outperformed the original 2026 plan by 36 percent.
+  - 2026 net sales revenue exceeded the initial 2026 plan by 7 percent, driven by container and storage performance.
 - **Post-Earnings Thesis:**
-  - Luka Koper demonstrates sustained operational resilience and solid pricing power despite complex macroeconomic challenges.
-  - The multi-year capital expenditure program will expand capacity but temporarily depress free cash flow generation.
-  - Secular growth in containerized trade underpins long-term volume expansion despite near-term rail and facility constraints.
-  - Prudent financial management and conservative leverage leave the company well-positioned to service debt and fund growth.
+  - The company maintains a positive growth trajectory supported by strategic infrastructure investments.
+  - 2027 outlook balances volume growth against rising labor and depreciation costs from new assets.
+  - Management remains cautious regarding geopolitical risks and infrastructure bottlenecks in the rail network.
+  - Financial stability is expected to remain solid despite higher leverage planned for capital projects.
