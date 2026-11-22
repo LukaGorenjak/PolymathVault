@@ -5,3 +5,5 @@
 - Free cash flow is the money a company has available to repay creditors, pay dividends, reduce debt, or reinvest in the business.
 - PP&E accounting can make FCF lumpy and uneven over time, YoY comparisons more volatile and potentially misleading without context.
 - Analysts who need to evaluate a company's expected performance with diffrent capital structures will use  variations of FCF, FCFE
+
+# Benefits of Using FCF
