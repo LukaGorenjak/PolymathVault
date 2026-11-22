@@ -8,3 +8,5 @@
 
 # Benefits of Using FCF
 - Provides important insights into a company's:
+	- Value
+	- 
