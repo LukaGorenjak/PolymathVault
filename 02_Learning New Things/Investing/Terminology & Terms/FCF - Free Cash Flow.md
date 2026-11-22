@@ -12,3 +12,6 @@
 	- Operational efficiency
 	- Health of its fundamental trends
 - Example:
+	- A decrease in [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp) could mean that vendors are requiring faster payment.
+- An increase in [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp) could mean the company is not collecting money from its customers, and is negative for cash flow.
+- An increase in inventory (outflow) could indicate a building stockpile of unsold products.
