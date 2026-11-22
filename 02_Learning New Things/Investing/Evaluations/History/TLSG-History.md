@@ -35,8 +35,8 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2021-12-31` | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| `2022-12-31` | EUR 652.12M | N/A | 51.64% | 8.51% | EUR 37.51M | EUR 45.33M | 6.95% | EUR 439.38M | 6.54M |
+| `2018-12-31` | EUR 731.22M | +0.71% | N/A | N/A | EUR 17.61M | N/A | N/A | N/A | N/A |
+| `2022-12-31` | EUR 652.12M | -10.82% | 51.64% | 8.51% | EUR 37.51M | EUR 45.33M | 6.95% | EUR 439.38M | 6.54M |
 | `2023-12-31` | EUR 694.91M | +6.56% | 52.20% | 11.01% | EUR 47.06M | EUR 74.77M | 10.76% | EUR 412.26M | 6.54M |
 | `2024-12-31` | EUR 712.44M | +2.52% | 53.48% | 12.03% | EUR 55.19M | EUR 58.57M | 8.22% | EUR 390.65M | 6.54M |
 | `2025-12-31` | EUR 740.51M | +3.94% | 54.24% | 13.12% | EUR 60.55M | EUR 64.29M | 8.68% | EUR 439.69M | 6.54M |
@@ -45,11 +45,11 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[TLSG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Continued deployment and 5G network enhancements to cover 99.3 percent of the Slovenian population.
-  - Strategic focus on expanding high-value ICT services, digital solutions, and robust cybersecurity offerings.
-  - Ongoing advocacy for balanced regulatory frameworks to mitigate disproportionate AKOS constraints on fixed broadband.
-  - Targeted execution of the 2024 to 2028 business plan focusing on operational efficiency and sustainable growth.
+  - Continued deployment of 5G infrastructure to cover nationwide populations and drive advanced ICT service adoption.
+  - Potential resolution or easing of disproportionate regulatory burdens by AKOS in the fixed broadband segment.
+  - Strategic expansion of digital and IT service offerings alongside enhanced cybersecurity and eHealth solutions.
 - **Post-Earnings Thesis:**
-  - Telekom Slovenije maintains solid operational momentum driven by steady subscriber expansion and higher ICT sales.
-  - Continued capital allocation toward fibre and 5G infrastructure strengthens long-term competitive moats.
-  - Regulatory headwinds in the fixed broadband market remain a persistent constraint on domestic growth potential.
+  - Telekom Slovenije Group is successfully executing its business plan with steady revenue and EBITDA growth.
+  - Strong free cash flow generation supports robust ongoing investments in fiber and 5G network upgrades.
+  - Management maintains full-year objectives for 2026 underpinned by resilient operational performance and disciplined cost management.
+  - Long-term value creation relies on balancing regulatory constraints while scaling digital and IT enterprise solutions.

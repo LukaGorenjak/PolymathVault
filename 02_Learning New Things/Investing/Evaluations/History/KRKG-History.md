@@ -35,7 +35,6 @@ tags:
 
 | Fiscal Year End | Revenue | Rev YoY % | Gross Margin | Op Margin | Net Income | FCF | FCF Margin | Total Debt | Shares |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2021-12-31` | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | `2022-12-31` | EUR 1.72B | N/A | 56.73% | 22.20% | EUR 363.30M | EUR 372.92M | 21.71% | EUR 11.84M | 31.01M |
 | `2023-12-31` | EUR 1.81B | +5.18% | 56.84% | 21.81% | EUR 313.95M | EUR 88.04M | 4.87% | EUR 12.00M | 30.88M |
 | `2024-12-31` | EUR 1.91B | +5.71% | 57.29% | 22.16% | EUR 356.99M | EUR 245.58M | 12.86% | EUR 13.15M | 30.69M |
@@ -45,13 +44,15 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[KRKG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Full-year 2026 revenue is projected at EUR 2,179 million, representing a 7% year-on-year increase and beating initial targets.
-  - Management forecasts full-year 2026 net profit at EUR 439 million, exceeding original expectations by EUR 34 million.
-  - The 2027 business plan sets revenue guidance at EUR 2,308 million and projects net profit to reach EUR 474 million.
-  - Capital expenditure for 2026 is estimated at just under EUR 115 million, ramping up to EUR 141 million in 2027 for infrastructure.
-  - The ongoing share buy-back programme schedule runs from January to June 2027, supporting capital return objectives.
+  - Full-year 2026 revenue is projected to reach €2,179 million, surpassing prior targets with 7% year-on-year growth.
+  - Management plans 2027 revenue of €2,308 million and net profit of €474 million, supported by robust core demand.
+  - Capital expenditure for 2026 is estimated at under €115 million, increasing to €141 million in 2027 for production expansion.
+- **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-07-23)):**
+  - Management raised full-year 2026 revenue expectations to €2,179 million, exceeding original business plan targets.
+  - Full-year 2026 net profit estimates were increased by €34 million to €439 million, reflecting stronger operational profitability.
+  - Actual nine-month net profit of €364.2 million tracks well ahead of annualized prior period delivery.
 - **Post-Earnings Thesis:**
-  - Krka demonstrates superior operational resilience, delivering double-digit net profit growth and expanding margins in a challenging environment.
-  - The 2027 business plan targeting EUR 2.3 billion in revenue is supported by robust R&D pipelines and capacity expansions.
-  - A fortress balance sheet featuring a net cash position of over EUR 630 million provides exceptional financial flexibility.
-  - Shareholder value is actively enhanced through consistent dividend payouts and ongoing treasury share buy-back schedules.
+  - Krka demonstrates superior financial resilience with high operating profitability and a fortress net cash balance sheet.
+  - Ongoing investments in production capacity and a robust new product pipeline provide clear visibility for sustained organic growth.
+  - Attractive valuation multiples coupled with consistent share repurchases offer strong shareholder value accretion.
+  - Geographic diversification and leadership in generic cardiovascular treatments mitigate single-market risks effectively.
