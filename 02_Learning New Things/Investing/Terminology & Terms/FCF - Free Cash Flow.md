@@ -9,4 +9,5 @@
 # Benefits of Using FCF
 - Provides important insights into a company's:
 	- Value
-	- 
+	- Operational efficiency
+	- Health of its fundamental trends
