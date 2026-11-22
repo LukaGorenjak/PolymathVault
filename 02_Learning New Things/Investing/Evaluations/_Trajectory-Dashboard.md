@@ -33,10 +33,10 @@ tags:
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **[[History/CICG-History|CICG]]** | Reinvestment Compounder | **12.52%** | **+3.02%** | 66.50% | -0.07x | 165.40x | 97.60% | 6.61% | **FORTRESS (Net Cash)** |
 | **[[History/KRKG-History|KRKG]]** | Reinvestment Compounder | **20.86%** | **+14.36%** | 79.10% | -0.98x | 77.60x | 64.10% | 4.06% | **FORTRESS (Net Cash)** |
-| **[[History/LKPG-History|LKPG]]** | Regional Infrastructure / Utility | **11.19%** | **+2.04%** | 48.20% | 0.33x | 270.50x | N/A | 1.93% | **STRONG** |
+| **[[History/LKPG-History|LKPG]]** | Reinvestment Compounder | **11.19%** | **+2.04%** | 48.20% | 0.33x | 270.50x | 85.20% | 1.93% | **STRONG** |
 | **[[History/MCD-History|MCD]]** | Reinvestment Compounder | **19.93%** | **+12.91%** | 84.60% | 3.48x | 7.90x | 70.40% | 3.95% | **ELEVATED LEVERAGE** |
 | **[[History/MSFT-History|MSFT]]** | Reinvestment Compounder | **35.39%** | **+25.34%** | 68.70% | -0.03x | 50.60x | 45.10% | 1.33% | **FORTRESS (Net Cash)** |
-| **[[History/PETG-History|PETG]]** | Regional Infrastructure / Utility | **7.09%** | **-1.30%** | 91.40% | 1.30x | 3.50x | 2808.50% | 3.82% | **ELEVATED LEVERAGE** |
+| **[[History/PETG-History|PETG]]** | Cyclical / Regulated | **7.09%** | **-1.30%** | 91.40% | 1.30x | 3.50x | 80.10% | 3.82% | **ELEVATED LEVERAGE** |
 | **[[History/RHM.DE-History|RHM.DE]]** | Stage 1 Only | **19.15%** | **+12.65%** | 106.20% | 1.07x | 14.40x | 74.40% | 1.14% | **STRONG** |
 | **[[History/TLSG-History|TLSG]]** | Regional Infrastructure / Utility | **6.92%** | **-0.63%** | 121.30% | 1.36x | 7.40x | 37.60% | 2.80% | **MODERATE** |
 | **[[History/ZVTG-History|ZVTG]]** | Financial / Insurance Franchise | **ROE 6.76%** | **-2.74%** | BVPS +6.29% | N/A (Fin.) | N/A (Fin.) | 46.70% | 4.08% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** |

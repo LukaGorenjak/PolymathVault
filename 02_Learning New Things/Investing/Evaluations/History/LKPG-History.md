@@ -27,7 +27,7 @@ tags:
 
 | Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Regional Infrastructure / Utility** | **11.19% / +2.04%** | 48.20% | **STRONG** | N/A | 1.93% |
+| **Reinvestment Compounder** | **11.19% / +2.04%** | 48.20% | **STRONG** | 85.20% | 1.93% |
 
 ## Evaluated Quarters Timeline
 
@@ -58,16 +58,14 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[LKPG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Group net sales revenue is estimated at EUR 410.1 million for 2026, representing an 8 percent increase over the previous year.
-  - Operating profit (EBIT) for 2026 is projected at EUR 97.3 million, supported by robust container throughput and storage fees.
-  - Total capital investments for 2026 are estimated at EUR 180.9 million, directed toward container terminal expansions and garage facilities.
-  - Business plan for 2027 forecasts net sales revenue of EUR 435.8 million and container throughput reaching 1338 thousand TEU.
+  - Management projects 2027 net sales revenue of EUR 435.8 million, representing a 6% increase over 2026 estimates.
+  - Planned 2027 capital expenditure of EUR 167.2 million focused on container terminal expansion and garage construction.
+  - Targeting 2027 container throughput of 1.338 million TEU, a 4% increase from 2026 levels.
+  - Anticipated 10% increase in headcount by end of 2027 to support terminal expansion and operational growth.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-18)):**
-  - Current 2026 estimated net sales revenue of EUR 410.1 million exceeds initial internal targets by 7 percent.
-  - Estimated 2026 EBIT of EUR 97.3 million significantly outperforms original internal plan by 36 percent.
-  - Car throughput fell 2 percent short of the prior plan due to weaker European vehicle exports.
+  - 2026 EBIT estimated at EUR 97.3 million, exceeding initial 2026 plans by 36%.
+  - 2026 net profit estimated at EUR 84.8 million, outperforming original 2026 targets by 30%.
 - **Post-Earnings Thesis:**
-  - Group net revenue for 2027 is targeted at EUR 435.8 million, driven by higher container throughput and pricing adjustments.
-  - Intensive capital expenditure cycle will continue with EUR 167.2 million allocated in 2027 for terminal and digital upgrades.
-  - Headcount is planned to reach 2951 employees by the end of 2027 to support expanded terminal operations.
-  - Long-term earnings growth remains secured by unmatched port infrastructure in the Northern Adriatic gateway.
+  - Expect moderate global economic growth in 2027 with continued focus on infrastructure expansion.
+  - Revenue growth driven by higher throughput and pricing, offset by rising labor and depreciation costs.
+  - Strategic priority remains the completion of the container terminal and garage facilities to alleviate capacity constraints.

@@ -27,7 +27,7 @@ tags:
 
 | Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Regional Infrastructure / Utility** | **7.09% / -1.30%** | 91.40% | **ELEVATED LEVERAGE** | 2808.50% | 3.82% |
+| **Cyclical / Regulated** | **7.09% / -1.30%** | 91.40% | **ELEVATED LEVERAGE** | 80.10% | 3.82% |
 
 ## Evaluated Quarters Timeline
 
@@ -58,13 +58,13 @@ tags:
 
 ### 2026Q1-Q3 (`2026-11-22`) — [[PETG-2026Q1-Q3]]
 - **Management Guidance & Drivers:**
-  - Management guides for full-year 2026 EBITDA to be approximately 15 percent lower than initially planned due to regulatory pressures.
-  - The group threatens to implement a protocol limiting fuel dispensing or closing unprofitable service stations if margins remain impaired.
-  - Petrol continues active lawsuits against the Republic of Slovenia totaling 177.2 million EUR and against Croatia for 60 million EUR.
+  - Management guides that 2026 full-year EBITDA will be approximately 15 percent lower than initially planned due to regulatory pressures.
+  - Petrol continues to actively pursue legal action against Slovenia and Croatia, with damage claims totaling hundreds of millions of euros.
+  - The supervisory board adopted a protocol allowing for the potential limitation of fuel dispensing or closure of unprofitable service stations.
 - **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-28)):**
-  - Management lowered full-year 2026 EBITDA expectations to a 15 percent deficit versus initial targets due to ongoing regulatory shocks.
-  - First-half underperformance carried directly into the third quarter with EBITDA falling 8 percent year-over-year in 9M 2026.
+  - Full-year 2026 EBITDA guidance was officially revised downward to approximately 15 percent below planned levels due to unmitigated regulatory impacts.
+  - First-half delivery suffered from severe March losses that could not be fully recovered despite stronger operational performance in the second quarter.
 - **Post-Earnings Thesis:**
-  - Management expects full-year 2026 EBITDA to finish approximately 15 percent below initial internal targets.
-  - The company will press forward with operational efficiency measures and cost controls to mitigate margin erosion.
-  - Petrol will maintain strict advocacy for market price deregulation to restore financial stability and secure reliable supply.
+  - Full-year 2026 EBITDA is projected to finish approximately 15 percent below initial internal business plan targets.
+  - Management will continue strict operational efficiency and cost-control measures to mitigate ongoing regulatory damage.
+  - The company remains firmly committed to advocating for the complete price liberalization of petroleum products to restore financial stability.
