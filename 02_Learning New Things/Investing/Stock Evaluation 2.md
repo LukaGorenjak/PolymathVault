@@ -4,3 +4,5 @@ How does it actually get its money?
 Where does that money come from?
 Who are it's costumers?
 KPI's and metrics
+
+# Financial Performance
