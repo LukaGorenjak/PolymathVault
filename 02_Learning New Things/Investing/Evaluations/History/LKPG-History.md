@@ -3,7 +3,7 @@ ticker: "LKPG"
 company: "LUKA KOPER, d.d., Koper"
 market: "LJSE"
 currency: "EUR"
-last_updated: "2026-11-22"
+last_updated: "2026-11-23"
 evaluations_count: 1
 tags:
   - investing
@@ -13,7 +13,7 @@ tags:
 
 # LKPG — LUKA KOPER, d.d., Koper (Evaluation History & 15-Year Compounder Hub)
 
-> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-23`
 
 <!-- USER-THESIS-START -->
 ## My 15-Year Thesis & Kill-Switches
@@ -27,13 +27,13 @@ tags:
 
 | Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Reinvestment Compounder** | **11.19% / +2.04%** | 48.20% | **STRONG** | 85.20% | 1.93% |
+| **Stage 1 Only** | **11.19% / +2.04%** | 48.20% | **STRONG** | 85.20% | 1.93% |
 
 ## Evaluated Quarters Timeline
 
 | Period | Report Note | Eval Date | Price | Rev YoY | EBIT YoY | Op Margin | TTM FCF | Trajectory | Valuation | Confidence |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2026Q1-Q3` *(Prelim)* | [[LKPG-2026Q1-Q3]] | `2026-11-22` | EUR 109.00 | +9.09% | -5.10% | 25.63% | -EUR 41.07M | **MIXED** | **FAIR** | `65%` |
+| `2026Q1-Q3` *(Prelim)* | [[LKPG-2026Q1-Q3]] | `2026-11-23` | EUR 109.00 | +9.09% | -5.10% | 25.63% | -EUR 41.07M | **MIXED** | **FAIR** | `65%` |
 
 ## Latest 5-Quarter Financial Progression (Raw Trend)
 
@@ -56,16 +56,4 @@ tags:
 
 ## Management Guidance, Thesis & Prior-Period Shifts Log
 
-### 2026Q1-Q3 (`2026-11-22`) — [[LKPG-2026Q1-Q3]]
-- **Management Guidance & Drivers:**
-  - Management projects 2027 net sales revenue of EUR 435.8 million, representing a 6% increase over 2026 estimates.
-  - Planned 2027 capital expenditure of EUR 167.2 million focused on container terminal expansion and garage construction.
-  - Targeting 2027 container throughput of 1.338 million TEU, a 4% increase from 2026 levels.
-  - Anticipated 10% increase in headcount by end of 2027 to support terminal expansion and operational growth.
-- **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-18)):**
-  - 2026 EBIT estimated at EUR 97.3 million, exceeding initial 2026 plans by 36%.
-  - 2026 net profit estimated at EUR 84.8 million, outperforming original 2026 targets by 30%.
-- **Post-Earnings Thesis:**
-  - Expect moderate global economic growth in 2027 with continued focus on infrastructure expansion.
-  - Revenue growth driven by higher throughput and pricing, offset by rising labor and depreciation costs.
-  - Strategic priority remains the completion of the container terminal and garage facilities to alleviate capacity constraints.
+_No Stage 2 filing commentary logged yet for this ticker._

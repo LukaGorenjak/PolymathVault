@@ -3,7 +3,7 @@ ticker: "ZVTG"
 company: "ZAVAROVALNICA TRIGLAV, d.d., Ljubljana"
 market: "LJSE"
 currency: "EUR"
-last_updated: "2026-11-22"
+last_updated: "2026-11-23"
 evaluations_count: 1
 tags:
   - investing
@@ -13,7 +13,7 @@ tags:
 
 # ZVTG — ZAVAROVALNICA TRIGLAV, d.d., Ljubljana (Evaluation History & 15-Year Compounder Hub)
 
-> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-23`
 
 <!-- USER-THESIS-START -->
 ## My 15-Year Thesis & Kill-Switches
@@ -27,13 +27,13 @@ tags:
 
 | Archetype | Avg ROE / Spread vs. Ke | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Financial / Insurance Franchise** | **6.76% / -2.74%** | BVPS CAGR: +6.29% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** | 46.70% | 4.08% |
+| **Stage 1 Only** | **6.76% / -2.74%** | BVPS CAGR: +6.29% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** | 46.70% | 4.08% |
 
 ## Evaluated Quarters Timeline
 
 | Period | Report Note | Eval Date | Price | Rev YoY | EBIT YoY | Op Margin | TTM FCF | Trajectory | Valuation | Confidence |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2026Q1-Q3` *(Prelim)* | [[ZVTG-2026Q1-Q3]] | `2026-11-22` | EUR 68.60 | N/A | N/A | N/A | N/A (Fin.) | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` |
+| `2026Q1-Q3` *(Prelim)* | [[ZVTG-2026Q1-Q3]] | `2026-11-23` | EUR 68.60 | N/A | N/A | N/A | N/A (Fin.) | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` |
 
 ## Latest 5-Quarter Financial Progression (Raw Trend)
 
@@ -55,15 +55,4 @@ tags:
 
 ## Management Guidance, Thesis & Prior-Period Shifts Log
 
-### 2026Q1-Q3 (`2026-11-22`) — [[ZVTG-2026Q1-Q3]]
-- **Management Guidance & Drivers:**
-  - Triglav Group reaffirmed its full-year 2026 earnings before tax guidance range of EUR 170 million to EUR 190 million.
-  - For 2027, the company targets earnings before tax of between EUR 200 million and EUR 220 million and net earnings of EUR 155 to 175 million.
-  - Management targets a total business volume of around EUR 2.4 billion and a combined ratio below 95% for the 2027 financial year.
-- **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-21)):**
-  - Triglav successfully reaffirmed its full-year 2026 earnings before tax guidance of EUR 170 to 190 million following solid nine-month results.
-  - The company delivered stable nine-month earnings before tax of EUR 146.3 million, keeping pace with prior period performance despite higher CAT losses.
-- **Post-Earnings Thesis:**
-  - Triglav is well-positioned to achieve its full-year 2026 pre-tax earnings target of EUR 170 to 190 million.
-  - Strategic ambitions through 2030 target steady top-line growth toward EUR 3 billion and sustainable annual return on equity of 12-13%.
-  - The disciplined dividend policy backed by strong cash generation makes the company an attractive income and compounding holding.
+_No Stage 2 filing commentary logged yet for this ticker._
