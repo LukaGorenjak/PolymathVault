@@ -3,7 +3,7 @@ ticker: "PETG"
 company: "PETROL d.d., Ljubljana"
 market: "LJSE"
 currency: "EUR"
-last_updated: "2026-11-22"
+last_updated: "2026-11-23"
 evaluations_count: 1
 tags:
   - investing
@@ -13,7 +13,7 @@ tags:
 
 # PETG — PETROL d.d., Ljubljana (Evaluation History & 15-Year Compounder Hub)
 
-> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-22`
+> **Navigation:** [[_Trajectory-Dashboard|Portfolio Dashboard]] · **Evaluated Quarters Logged:** `1` · **Last Updated:** `2026-11-23`
 
 <!-- USER-THESIS-START -->
 ## My 15-Year Thesis & Kill-Switches
@@ -27,13 +27,13 @@ tags:
 
 | Archetype | Avg ROIC / Spread vs. WACC | Cash Conversion / BVPS | Solvency | Div Payout | Shareholder Yield |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Cyclical / Regulated** | **7.09% / -1.30%** | 91.40% | **ELEVATED LEVERAGE** | 80.10% | 3.82% |
+| **Stage 1 Only** | **7.09% / -1.30%** | 91.40% | **ELEVATED LEVERAGE** | 80.10% | 3.82% |
 
 ## Evaluated Quarters Timeline
 
 | Period | Report Note | Eval Date | Price | Rev YoY | EBIT YoY | Op Margin | TTM FCF | Trajectory | Valuation | Confidence |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `2026Q1-Q3` *(Prelim)* | [[PETG-2026Q1-Q3]] | `2026-11-22` | EUR 55.00 | +24.45% | -24.72% | 2.67% | EUR 3.07M | **DETERIORATING** | **DEMANDING** | `65%` |
+| `2026Q1-Q3` *(Prelim)* | [[PETG-2026Q1-Q3]] | `2026-11-23` | EUR 55.00 | +24.45% | -24.72% | 2.67% | EUR 3.07M | **DETERIORATING** | **DEMANDING** | `65%` |
 
 ## Latest 5-Quarter Financial Progression (Raw Trend)
 
@@ -56,15 +56,4 @@ tags:
 
 ## Management Guidance, Thesis & Prior-Period Shifts Log
 
-### 2026Q1-Q3 (`2026-11-22`) — [[PETG-2026Q1-Q3]]
-- **Management Guidance & Drivers:**
-  - Management guides that 2026 full-year EBITDA will be approximately 15 percent lower than initially planned due to regulatory pressures.
-  - Petrol continues to actively pursue legal action against Slovenia and Croatia, with damage claims totaling hundreds of millions of euros.
-  - The supervisory board adopted a protocol allowing for the potential limitation of fuel dispensing or closure of unprofitable service stations.
-- **Guidance vs. Delivery Check (Prior SEOnet Interim / Annual Report (2026-08-28)):**
-  - Full-year 2026 EBITDA guidance was officially revised downward to approximately 15 percent below planned levels due to unmitigated regulatory impacts.
-  - First-half delivery suffered from severe March losses that could not be fully recovered despite stronger operational performance in the second quarter.
-- **Post-Earnings Thesis:**
-  - Full-year 2026 EBITDA is projected to finish approximately 15 percent below initial internal business plan targets.
-  - Management will continue strict operational efficiency and cost-control measures to mitigate ongoing regulatory damage.
-  - The company remains firmly committed to advocating for the complete price liberalization of petroleum products to restore financial stability.
+_No Stage 2 filing commentary logged yet for this ticker._

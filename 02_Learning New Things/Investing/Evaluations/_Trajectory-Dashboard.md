@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Trajectory & 15-Year Compounder Dashboard"
-last_updated: "2026-11-22"
+last_updated: "2026-11-23"
 companies_tracked: 9
 tags:
   - investing
@@ -10,7 +10,7 @@ tags:
 
 # Portfolio Trajectory & 15-Year Compounder Dashboard
 
-> **Last Updated:** `2026-11-22` · **Companies Tracked:** `9`  
+> **Last Updated:** `2026-11-23` · **Companies Tracked:** `9`  
 > Auto-generated from `state/history/`. Click any period link to open the full evaluation or `History` to view/edit your preserved 15-year thesis.
 
 ## 1. Latest Earnings & Valuation Snapshot
@@ -19,13 +19,13 @@ tags:
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **CICG** | `LJSE` | [[CICG-2026Q1-Q3|2026Q1-Q3]] | [[History/CICG-History|History]] | EUR 27.30 | +7.45% | +1175.57% | 12.45% | 7.34% | EUR 32.73 (+19.88%) | **STEADY** | **CONSERVATIVE** | `90%` | S2 |
 | **KRKG** | `LJSE` | [[KRKG-2026Q1-Q3|2026Q1-Q3]] | [[History/KRKG-History|History]] | EUR 248.00 | +11.37% | +32.86% | 26.89% | 18.15% | EUR 480.90 (+93.91%) | **IMPROVING** | **CONSERVATIVE** | `100%` | S2 |
-| **LKPG** | `LJSE` | [[LKPG-2026Q1-Q3|2026Q1-Q3]] | [[History/LKPG-History|History]] | EUR 109.00 | +9.09% | -5.10% | 25.63% | -10.30% | EUR 103.23 (-5.30%) | **MIXED** | **FAIR** | `65%` | S2, PRELIM-STALE |
+| **LKPG** | `LJSE` | [[LKPG-2026Q1-Q3|2026Q1-Q3]] | [[History/LKPG-History|History]] | EUR 109.00 | +9.09% | -5.10% | 25.63% | -10.30% | EUR 103.23 (-5.30%) | **MIXED** | **FAIR** | `65%` | S1-only, PRELIM-STALE |
 | **MCD** | `US` | [[MCD-2026Q3|2026Q3]] | [[History/MCD-History|History]] | USD 273.24 | +1.12% | +4.10% | 48.28% | 26.96% | USD 190.40 (-30.32%) | **STEADY** | **DEMANDING** | `100%` | S2, Entry Suppressed |
 | **MSFT** | `US` | [[MSFT-2026Q3|2026Q3]] | [[History/MSFT-History|History]] | USD 484.52 | +18.80% | +20.95% | 49.76% | 17.31% | USD 428.41 (-11.58%) | **IMPROVING** | **FAIR** | `100%` | S2 |
-| **PETG** | `LJSE` | [[PETG-2026Q1-Q3|2026Q1-Q3]] | [[History/PETG-History|History]] | EUR 55.00 | +24.45% | -24.72% | 2.67% | 0.05% | EUR 38.55 (-29.91%) | **DETERIORATING** | **DEMANDING** | `65%` | S2, PRELIM-STALE, Entry Suppressed |
+| **PETG** | `LJSE` | [[PETG-2026Q1-Q3|2026Q1-Q3]] | [[History/PETG-History|History]] | EUR 55.00 | +24.45% | -24.72% | 2.67% | 0.05% | EUR 38.55 (-29.91%) | **DETERIORATING** | **DEMANDING** | `65%` | S1-only, PRELIM-STALE, Entry Suppressed |
 | **RHM.DE** | `EU` | [[RHM.DE-2026Q3|2026Q3]] | [[History/RHM.DE-History|History]] | EUR 693.40 | +36.44% | +49.67% | 14.45% | 4.59% | EUR 621.18 (-10.42%) | **MIXED** | **FAIR** | `80%` | S1-only |
 | **TLSG** | `LJSE` | [[TLSG-2026Q1-Q3|2026Q1-Q3]] | [[History/TLSG-History|History]] | EUR 143.00 | +3.88% | +3.97% | 12.55% | 9.09% | EUR 161.67 (+13.06%) | **STEADY** | **FAIR** | `90%` | S2 |
-| **ZVTG** | `LJSE` | [[ZVTG-2026Q1-Q3|2026Q1-Q3]] | [[History/ZVTG-History|History]] | EUR 68.60 | N/A | N/A | N/A | N/A (Fin.) | P/B 1.40x / ROE 12.53% | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` | S2, PRELIM-STALE |
+| **ZVTG** | `LJSE` | [[ZVTG-2026Q1-Q3|2026Q1-Q3]] | [[History/ZVTG-History|History]] | EUR 68.60 | N/A | N/A | N/A | N/A (Fin.) | P/B 1.40x / ROE 12.53% | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` | S1-only, PRELIM-STALE |
 
 ## 2. 15-Year Compounder Quality Matrix
 
@@ -33,13 +33,13 @@ tags:
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **[[History/CICG-History|CICG]]** | Reinvestment Compounder | **12.52%** | **+3.02%** | 66.50% | -0.07x | 165.40x | 97.60% | 6.61% | **FORTRESS (Net Cash)** |
 | **[[History/KRKG-History|KRKG]]** | Reinvestment Compounder | **20.86%** | **+14.36%** | 79.10% | -0.98x | 77.60x | 64.10% | 4.06% | **FORTRESS (Net Cash)** |
-| **[[History/LKPG-History|LKPG]]** | Reinvestment Compounder | **11.19%** | **+2.04%** | 48.20% | 0.33x | 270.50x | 85.20% | 1.93% | **STRONG** |
+| **[[History/LKPG-History|LKPG]]** | Stage 1 Only | **11.19%** | **+2.04%** | 48.20% | 0.33x | 270.50x | 85.20% | 1.93% | **STRONG** |
 | **[[History/MCD-History|MCD]]** | Reinvestment Compounder | **19.93%** | **+12.91%** | 84.60% | 3.48x | 7.90x | 70.40% | 3.95% | **ELEVATED LEVERAGE** |
 | **[[History/MSFT-History|MSFT]]** | Reinvestment Compounder | **35.39%** | **+25.34%** | 68.70% | -0.03x | 50.60x | 45.10% | 1.33% | **FORTRESS (Net Cash)** |
-| **[[History/PETG-History|PETG]]** | Cyclical / Regulated | **7.09%** | **-1.30%** | 91.40% | 1.30x | 3.50x | 80.10% | 3.82% | **ELEVATED LEVERAGE** |
+| **[[History/PETG-History|PETG]]** | Stage 1 Only | **7.09%** | **-1.30%** | 91.40% | 1.30x | 3.50x | 80.10% | 3.82% | **ELEVATED LEVERAGE** |
 | **[[History/RHM.DE-History|RHM.DE]]** | Stage 1 Only | **19.15%** | **+12.65%** | 106.20% | 1.07x | 14.40x | 74.40% | 1.14% | **STRONG** |
 | **[[History/TLSG-History|TLSG]]** | Regional Infrastructure / Utility | **6.92%** | **-0.63%** | 121.30% | 1.36x | 7.40x | 37.60% | 2.80% | **MODERATE** |
-| **[[History/ZVTG-History|ZVTG]]** | Financial / Insurance Franchise | **ROE 6.76%** | **-2.74%** | BVPS +6.29% | N/A (Fin.) | N/A (Fin.) | 46.70% | 4.08% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** |
+| **[[History/ZVTG-History|ZVTG]]** | Financials (Stage 1) | **ROE 6.76%** | **-2.74%** | BVPS +6.29% | N/A (Fin.) | N/A (Fin.) | 46.70% | 4.08% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** |
 
 ---
 
