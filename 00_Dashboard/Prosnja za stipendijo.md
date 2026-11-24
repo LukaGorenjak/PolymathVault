@@ -9,7 +9,7 @@ Kadrovska služba
 Bukovžlak 105
 3000 Celje
 
-Štore, 2
+Štore, 23. 11. 2026
 
 
 Zadeva: Prošnja za kadrovsko štipendijo – študijsko leto 2027/28 (računalništvo in informatika)
