@@ -23,7 +23,7 @@ Trenutno obiskujem 4. letnik programa tehnik računalništva na ŠCC KER, kjer d
 
 Pri delu v oddelku PC mi je bilo najbolj všeč dobro vzdušje v ekipi in pripravljenost  sodelavcev za pomoč, zaradi česar sem se hitro vključil in veliko naučil. V času študijskega leta se nameravam posvetiti rednemu in uspešnemu opravljanju študijskih obveznosti, z vami pa želim ostati aktivno povezan prek študentskega dela med poletnimi počitnicami – z veseljem že to poletje pred vpisom na fakulteto – ter pozneje z opravljanjem obvezne študijske prakse in pripravo diplomske naloge v vašem podjetju. Po zaključku študija si želim dolgoročne zaposlitve v vaši ekipi.
 
-Zavedam se, da so pogoji štipendiranja stvar medsebojnega dogovora, zato sem odprt za različne možnosti sodelovanja. Vesel bom povabila na kratek pogovor, na katerem vam lahko podrobneje predstavim svoje načrte za študij in prisluhnem vašim pričakovanjem.
+Če pri vas obstaja možnost kadrovske štipendije ali poletnega sodelovanja, bom vesel vašega odgovora. Glede pogojev sem povsem odprt za dogovor in na voljo, če boste želeli še kakšno informacijo ali kratek pogovor.
 
 Lep pozdrav,
 
