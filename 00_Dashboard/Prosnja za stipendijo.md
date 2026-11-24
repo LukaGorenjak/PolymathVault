@@ -28,7 +28,7 @@ Pri delu v oddelku PC mi je bilo najbolj všeč dobro vzdušje v ekipi in pripra
 Lep pozdrav,
 
 
-[Lastnoročni podpis pri tisku ali čist podpis v PDF]
+
 [Ime in priimek]
 
 
