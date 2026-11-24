@@ -1,4 +1,4 @@
-[Ime in priimek]
+
 [Ulica in hišna številka]
 [Poštna številka in kraj]
 [Telefonska številka]
