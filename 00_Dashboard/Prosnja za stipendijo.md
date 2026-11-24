@@ -17,7 +17,7 @@ Zadeva: Prošnja za kadrovsko štipendijo – študijsko leto 2027/28 (računaln
 
 Spoštovani,
 
-obračam se na vas z željo po pridobitvi kadrovske štipendije vašega podjetja za prihajajoči študij Računalništva in informatike na Fakulteti za računalništvo in informatiko Univerze v Ljubljani (UL FRI), z začetkom v študijskem letu 2027/28. Vaše podjetje sem že pobliže spoznal v času letošnje prakse in nadaljnjega dela v oddelku PC, ta izkušnja pa me je prepričala, da si pri vas želim graditi svojo dolgoročno poklicno pot.
+obračam se na vas z željo po pridobitvi kadrovske štipendije vašega podjetja za prihajajoči študij Računalništva in informatike na Fakulteti za računalništvo in informatiko Univerze v Ljubljani (UL FRI), z začetkom v študijskem letu 2027/28. Vaše podjetje sem že pobliže spoznal v času letošnje prakse in nadaljnjega študentskega dela v oddelku PC, ta izkušnja pa me je prepričala, da si pri vas želim graditi svojo dolgoročno poklicno pot.
 
 Trenutno obiskujem 4. letnik programa tehnik računalništva na [Ime srednje šole], kjer dosegam prav dober učni uspeh. Pri vas sem v oddelku PC opravil dvomesečno obvezno prakso, med katero sem spoznal vaše razvojne procese ter sodeloval pri projektih in odpravljanju napak v programski kodi. Po zaključku prakse sem v oddelku nadaljeval še mesec dni z delom prek študentskega servisa, kjer sem v ekipi dveh zaposlenih in še dveh študentov sodeloval pri razvoju orodja za testerje, namenjenega shranjevanju xUnit testov. O mojem delu, pristopu in sodelovanju z ekipo vam lahko podrobnejšo povratno informacijo poda tudi [Ime in priimek mentorja oz. vodje oddelka PC].
 
