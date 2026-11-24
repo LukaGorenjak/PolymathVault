@@ -1,8 +1,8 @@
 Luka Gorenjak
-[Ulica in hišna številka]
-[Poštna številka in kraj]
-[Telefonska številka]
-[E-poštni naslov]
+Železarska cesta 6
+3220, Štore
+040 646 444
+gorenjak.luka11@gmail.com
 
 INEL industrijska elektronika d.o.o.
 Kadrovska služba
