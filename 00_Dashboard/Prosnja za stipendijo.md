@@ -9,7 +9,7 @@ Kadrovska služba
 Bukovžlak 105
 3000 Celje
 
-[Kraj], [datum, npr. 21. november 2026]
+Štore, 2
 
 
 Zadeva: Prošnja za kadrovsko štipendijo – študijsko leto 2027/28 (računalništvo in informatika)
@@ -28,8 +28,7 @@ Pri delu v oddelku PC mi je bilo najbolj všeč dobro vzdušje v ekipi in pripra
 Lep pozdrav,
 
 
-
-[Ime in priimek]
+Luka Gorenjak
 
 
 Priloge:
