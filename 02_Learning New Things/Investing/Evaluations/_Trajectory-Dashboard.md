@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Trajectory & 15-Year Compounder Dashboard"
-last_updated: "2026-11-25"
+last_updated: "2026-11-26"
 companies_tracked: 9
 tags:
   - investing
@@ -10,7 +10,7 @@ tags:
 
 # Portfolio Trajectory & 15-Year Compounder Dashboard
 
-> **Last Updated:** `2026-11-25` · **Companies Tracked:** `9`  
+> **Last Updated:** `2026-11-26` · **Companies Tracked:** `9`  
 > Auto-generated from `state/history/`. Click any period link to open the full evaluation or `History` to view/edit your preserved 15-year thesis.
 
 ## 1. Latest Earnings & Valuation Snapshot
@@ -25,7 +25,7 @@ tags:
 | **PETG** | `LJSE` | [[PETG-2026Q1-Q3|2026Q1-Q3]] | [[History/PETG-History|History]] | EUR 54.80 | +28.28% | -4.57% | 4.57% | 0.34% | EUR 36.95 (-32.57%) | **MIXED** | **DEMANDING** | `90%` | S2, Entry Suppressed |
 | **RHM.DE** | `EU` | [[RHM.DE-2026Q3|2026Q3]] | [[History/RHM.DE-History|History]] | EUR 693.40 | +36.44% | +49.67% | 14.45% | 4.59% | EUR 621.18 (-10.42%) | **MIXED** | **FAIR** | `80%` | S1-only |
 | **TLSG** | `LJSE` | [[TLSG-2026Q1-Q3|2026Q1-Q3]] | [[History/TLSG-History|History]] | EUR 143.00 | +3.88% | +3.97% | 12.55% | 9.09% | EUR 161.67 (+13.06%) | **STEADY** | **FAIR** | `90%` | S2 |
-| **ZVTG** | `LJSE` | [[ZVTG-2026Q1-Q3|2026Q1-Q3]] | [[History/ZVTG-History|History]] | EUR 68.60 | N/A | N/A | N/A | N/A (Fin.) | P/B 1.40x / ROE 12.53% | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` | S1-only, PRELIM-STALE |
+| **ZVTG** | `LJSE` | [[ZVTG-2026Q1-Q3|2026Q1-Q3]] | [[History/ZVTG-History|History]] | EUR 67.60 | N/A | N/A | N/A | N/A (Fin.) | P/B 1.38x / ROE 12.53% | **INSUFFICIENT DATA** | **FINANCIALS (EVALUATE P/B & ROE)** | `25%` | S2, PRELIM-STALE |
 
 ## 2. 15-Year Compounder Quality Matrix
 
@@ -39,7 +39,7 @@ tags:
 | **[[History/PETG-History|PETG]]** | Regional Infrastructure / Utility | **7.09%** | **-1.22%** | 91.40% | 1.56x | 3.00x | 80.10% | 3.83% | **ELEVATED LEVERAGE** |
 | **[[History/RHM.DE-History|RHM.DE]]** | Stage 1 Only | **19.15%** | **+12.65%** | 106.20% | 1.07x | 14.40x | 74.40% | 1.14% | **STRONG** |
 | **[[History/TLSG-History|TLSG]]** | Regional Infrastructure / Utility | **6.92%** | **-0.63%** | 121.30% | 1.36x | 7.40x | 37.60% | 2.80% | **MODERATE** |
-| **[[History/ZVTG-History|ZVTG]]** | Financials (Stage 1) | **ROE 6.76%** | **-2.74%** | BVPS +6.29% | N/A (Fin.) | N/A (Fin.) | 46.70% | 4.08% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** |
+| **[[History/ZVTG-History|ZVTG]]** | Reinvestment Compounder | **ROE 6.76%** | **-2.74%** | BVPS +6.29% | N/A (Fin.) | N/A (Fin.) | 46.70% | 4.14% | **FINANCIALS (Monitor Regulatory Solvency & Capital Adequacy)** |
 
 ---
 
